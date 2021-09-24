@@ -4,7 +4,8 @@
 - 💞️ Goals: I’m looking to collaborate on Open Source projects
 - ✨ Fun Fact: I have 200 fish in 4 aquariums at home, 2 ring-necked parakeet and 2 cats :smile:
 
-###📫 How to reach me:
+#📫 How to reach me:
+  <https://www.linkedin.com/in/issam-amazdouy-8b2525118/>
 
 
 <!---
