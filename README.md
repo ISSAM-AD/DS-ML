@@ -1,11 +1,15 @@
-#👋 Hi, I’m Issam
+
+
+ 👋 <b>Hi, I'm Issam</b>
 - 👀 I’m interested in Data Science & Machine Learning using Python
-- 🌱 I’m currently learning everything :rofl:
+- 🌱 I’m currently studying to obtain the <i>Azure Data Scientist Associate certification</i> 😃
 - 💞️ Goal: I’m looking to collaborate on Open Source projects
 - ✨ Fun Fact: I have 100 fish in 3 aquariums at home, 2 ring-necked parakeet and 2 cats :smile:
 
-#📫 How to reach me:
-  <https://www.linkedin.com/in/issam-amazdouy-8b2525118/>
+📫 Connect with me:
+
+<a href="https://www.linkedin.com/in/issam-amazdouy-8b2525118/">
+  <img align="left" alt="Issam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 
 
 <!---
