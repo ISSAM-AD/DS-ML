@@ -1,4 +1,4 @@
- 👋 <b>Hi, I'm Issam</b>
+ <b>Hi, I'm Issam </b>👋 
 - 👀 I’m interested in Data Science & Machine Learning using Python
 - 🌱 I’m currently studying to obtain the <i>Azure Data Scientist Associate certification</i> 😃
 - 💞️ Goal: I’m looking to collaborate on Open Source projects
